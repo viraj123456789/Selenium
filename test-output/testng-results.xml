@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Method 1]]>
+    </line>
+    <line>
+      <![CDATA[Method 3]]>
+    </line>
+    <line>
+      <![CDATA[Method 4]]>
+    </line>
+    <line>
+      <![CDATA[Method 6]]>
+    </line>
+    <line>
+      <![CDATA[Method 7]]>
+    </line>
+    <line>
+      <![CDATA[Method 8]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="143" started-at="2023-01-06T16:32:41 IST" finished-at="2023-01-06T16:32:41 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="143" started-at="2023-01-06T16:32:41 IST" finished-at="2023-01-06T16:32:41 IST">
+      <class name="com.aspire.FrameWork.TestNG_Assert.Hard_Assert_and_Soft_Assert">
+        <test-method status="PASS" signature="m1()[pri:0, instance:com.aspire.FrameWork.TestNG_Assert.Hard_Assert_and_Soft_Assert@307f6b8c]" name="m1" duration-ms="20" started-at="2023-01-06T16:32:41 IST" finished-at="2023-01-06T16:32:41 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Method 1]]>
+            </line>
+            <line>
+              <![CDATA[Method 3]]>
+            </line>
+            <line>
+              <![CDATA[Method 4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:com.aspire.FrameWork.TestNG_Assert.Hard_Assert_and_Soft_Assert@307f6b8c]" name="m2" duration-ms="17" started-at="2023-01-06T16:32:41 IST" finished-at="2023-01-06T16:32:41 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Method 6]]>
+            </line>
+            <line>
+              <![CDATA[Method 7]]>
+            </line>
+            <line>
+              <![CDATA[Method 8]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- com.aspire.FrameWork.TestNG_Assert.Hard_Assert_and_Soft_Assert -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
